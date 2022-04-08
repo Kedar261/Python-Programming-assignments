@@ -1,0 +1,9 @@
+##1.	Write a Python program to convert kilometers to miles?
+d = float(input("Enter the distance in kilometers:\n"))
+print("Conversion of", d, "kilometers in miles is:", d*0.621371, "miles")
+
+
+
+## 2.	Write a Python program to convert Celsius to Fahrenheit?
+temp = float(input("Enter the temperature in celcius:\n"))
+print("Conversion of", temp, "degree celcius in farenheit is:", (temp * 1.8) + 32, "farenheit")
